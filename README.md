@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Ross-Li, a financial engineering major student in CUHK(SZ). I really suck at programming, really.
+- 👋 Hi, I’m @Ross-Li, a financial engineering major student in CUHK(SZ).
 - 👀 I’m interested in: 
-1. building a fully customizable stock screener and a real-time stock scanner 
-2. designing a simple trading bot
+1. learning about `Quantlib`
+2. quantitative development
 - 🌱 I’m currently learning 
-1. some data science things, Python and R
-2. algorithmic, quantitative and High-frequency trading
+1. C++
 - 💞️ I’m looking to collaborate on:
+1. projects about C++ learning
+2. quantitative library
 
-You want to collabotate with me? Oh come on, find someone else better.
 - 📫 How to reach me 
 Email: ross89223@gmail.com
 
