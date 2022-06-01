@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Ross-Li, a financial engineering major student in CUHK(SZ).
+- :wave: Hi, I’m @Ross-Li, a financial engineering major student in CUHK(SZ).
 - 👀 I’m interested in: 
-1. learning about `Quantlib`
-2. quantitative development
-- 🌱 I’m currently learning 
-1. C++
-- 💞️ I’m looking to collaborate on:
-1. projects about C++ learning
-2. quantitative library
+    - learning about `Quantlib`
+    - quantitative development
+
+-  :books: I’m currently learning
+    - verify and implement finance theories with Python  
+    - C++
+    - Linux 
+
+-  :ok_hand: I’m looking to collaborate on:
+    - projects about C++ learning
+    - quantitative library
+
+-  :briefcase: I am looking for job opportunities in:
+    - quantitative development internship
 
 - 📫 How to reach me 
 Email: ross89223@gmail.com
