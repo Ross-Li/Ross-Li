@@ -1,4 +1,4 @@
-- :wave: Hi, I’m @Ross-Li, a financial engineering major student in CUHK(SZ).
+- :wave: Hi, I’m.
 - 👀 I’m interested in: 
     - developing my own little full-stack website
 
@@ -16,9 +16,6 @@
     - software development internship
 
 - 📫 How to reach me 
-Email: ross89223@gmail.com
+Email：
 
-<!---
-Ross-Li/Ross-Li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
