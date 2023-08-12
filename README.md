@@ -1,4 +1,4 @@
-- :wave: Hi, I’m.
+- :wave: Hi, I’m Peilin Li.
 - 👀 I’m interested in: 
     - developing my own little full-stack website
 
